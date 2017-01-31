@@ -22,7 +22,7 @@ parser.add_argument('--boardID', type=str,
                     default='bdpGLeHh') # Trello Testing Sandbox board
 parser.add_argument('--sourceBoardID', type=str, 
                     help='Board ID', 
-                    default='l2f4QHJ8') # default is a webapp team L board
+                    default='wmemgG44') # default is a webapp team T board
 
 args = parser.parse_args()
 
